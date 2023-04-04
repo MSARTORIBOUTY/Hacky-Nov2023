@@ -1,6 +1,6 @@
 # Introduction
 
-Tous les deux et Mauvaises pratiques sont des scénarios conçus pour le CTF Hacky'Nov (https://hackynov.fr/) à Aix-en-Provence lors de sa seconde édition du 31 mars au 1er avril 2023
+Tous les deux et Mauvaises pratiques sont des scénarios conçus pour le CTF Hacky'Nov (https://hackynov.fr/) à Aix-en-Provence lors de sa seconde édition du **31 mars au 1er avril 2023**
 
 Ces scénarios sont la **propriété exclusive Hacky'Nov** mais également de ses créateurs **[Rémy LASSEAUX](https://www.linkedin.com/in/remy-lasseaux)** et **[SARTORI BOUTY Marie-Laure](https://www.linkedin.com/in/marie-laure-sartori-bouty-39b0611b7/?originalSubdomain=fr)**, alternants en informatique.
 
@@ -15,6 +15,7 @@ Merci de votre compréhension.
 ![screenshot](https://github.com/MSARTORIBOUTY/image/blob/master/ann%C3%A9e%202/tous_les_deux_github.png?raw=true) 
 
 Salut Grosminet!
+
 J'ai fait un peu de tri dans mes placards et j'ai trouvé une vieille photo de nous deux d'il y a quelques années.
 Tu pensais toujours que t'étais le plus malin alors que t'es juste un gros minet !
 Hehe ! Tu n’es pas d'accord ? Alors prouve-moi le contraire !
@@ -52,6 +53,7 @@ Ce scénario a été construit dans son entièreté à l'aide de **Unity**
 ## Contacts
 
 **Rémy LASSEAUX** : [LINKEDIN](https://www.linkedin.com/in/remy-lasseaux)
+
 **Marie-Laure SARTORI BOUTY** : [LINKEDIN](https://www.linkedin.com/in/marie-laure-sartori-bouty-39b0611b7/?originalSubdomain=fr) | [GITHUB](https://github.com/MSARTORIBOUTY)
 
 
