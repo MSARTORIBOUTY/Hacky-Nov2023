@@ -8,7 +8,7 @@ Il est interdit de copier ou de s'approprier notre travail. Certains scénarios 
 
 Merci de votre compréhension.
 
-#Tous les deux Deux
+# Tous les deux Deux
 
 ## Histoire 
 
@@ -25,9 +25,9 @@ N.B: Petite astuce, la solution n'est jamais bien loin.
 
 Stéganographie
 
-#Mauvaises pratiques
+# Mauvaises pratiques
 
-##Histoire
+## Histoire
 
 ![screenshot](https://github.com/MSARTORIBOUTY/image/blob/master/ann%C3%A9e%202/mauvaises_pratiques.jpg?raw=true) 
 
@@ -39,7 +39,7 @@ Et vous ? Les avez-vous ?
 
 À vous de découvrir les **8 mauvaises pratiques** que certains employés possèdent !
 
-##Informations
+## Informations
 
 Afin de résoudre ce challenge, vous êtes invité à arpenter les murs d'une entreprise et découvrir les mauvais élèves que sont les employés.
 
@@ -49,7 +49,7 @@ Ce scénario a été construit dans son entièreté à l'aide de **Unity**
 
 ***Ce scénario est indisponible***
 
-##Contacts
+## Contacts
 
 **Rémy LASSEAUX** : [LINKEDIN](https://www.linkedin.com/in/remy-lasseaux)
 **Marie-Laure SARTORI BOUTY** : [LINKEDIN](https://www.linkedin.com/in/marie-laure-sartori-bouty-39b0611b7/?originalSubdomain=fr) | [GITHUB](https://github.com/MSARTORIBOUTY)
