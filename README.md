@@ -22,7 +22,7 @@ Hehe ! Tu n’es pas d'accord ? Alors prouve-moi le contraire !
 
 N.B: Petite astuce, la solution n'est jamais bien loin.
 
-## Catégories
+## Catégorie
 
 Stéganographie
 
@@ -48,7 +48,11 @@ Ce scénario a pour objectif de **sensibliser** toute personne afin de prendre c
 
 Ce scénario a été construit dans son entièreté à l'aide de **Unity** 
 
-***Ce scénario est indisponible***
+***CE SCENARIO EST INDISPONIBLE***
+
+## Catégorie
+
+Sensibilisation
 
 ## Contacts
 
